@@ -1,5 +1,5 @@
 package sg.edu.np.mad.madpractical2;
-
+//User.java
 public class User {
     public String name;
 

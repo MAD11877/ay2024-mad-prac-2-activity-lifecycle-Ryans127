@@ -35,3 +35,4 @@ import org.w3c.dom.Text;
         btnFollow.setText("Follow");
     }
 }
+//MainActivity
